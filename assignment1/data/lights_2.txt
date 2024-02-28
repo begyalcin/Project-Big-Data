@@ -1,0 +1,32 @@
+turn off 174,272 through 280,311
+turn off 540,50 through 880,212
+turn on 141,994 through 221,998
+turn on 476,695 through 483,901
+turn on 960,216 through 972,502
+toggle 752,335 through 957,733
+turn off 419,713 through 537,998
+toggle 772,846 through 994,888
+turn on 881,159 through 902,312
+turn off 537,651 through 641,816
+toggle 561,947 through 638,965
+turn on 368,458 through 437,612
+turn on 290,149 through 705,919
+turn on 711,918 through 974,945
+toggle 916,242 through 926,786
+toggle 522,272 through 773,314
+turn on 432,897 through 440,954
+turn off 132,169 through 775,380
+toggle 52,205 through 693,747
+toggle 926,309 through 976,669
+turn off 838,342 through 938,444
+turn on 144,431 through 260,951
+toggle 780,318 through 975,495
+turn off 185,412 through 796,541
+turn on 879,548 through 892,860
+turn on 294,132 through 460,338
+turn on 823,500 through 899,529
+turn off 225,603 through 483,920
+toggle 717,493 through 930,875
+toggle 534,948 through 599,968
+turn on 522,730 through 968,950
+turn off 102,229 through 674,529
